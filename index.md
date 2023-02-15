@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-Hi, this is a demo.
+# Hi, this is a demo.
